@@ -1,5 +1,7 @@
 # Gimp-Themes
 
+*** The themes are based on existing Gimp themes ***
+
 Prerequisites : Gimp ≥ v3.0.0
 
 İnstallation:
