@@ -1,0 +1,70 @@
+
+
+                   /* Basic font, background, border and more colors. */
+
+/* Middle Gray LowBlue - DarkRed theme */
+
+
+@define-color font-color             #000000;
+
+@define-color hover-font-color       #cccccc;
+
+@define-color entry-font-color       #344a75;
+
+
+
+@define-color bg-color               #676765;
+
+@define-color bg-color-2             #595957;
+
+@define-color bg-color-3             #767674;
+
+@define-color bg-color-4             rgba(250,250,250,0.05);
+
+@define-color sptr-bg-color          rgba(0,0,0,0.05);
+
+
+
+
+@define-color border-color           rgba(0,0,0,0.15);
+
+
+
+@define-color dimmed-fg-color        #505050;
+
+@define-color disabled-font-color    #656565;
+
+@define-color disabled-button-color  #707070;
+
+
+
+@define-color hover-color            #980000;
+
+@define-color selected-color         #680000;
+
+
+
+@define-color bar-color              #005500;
+
+@define-color tooltip-color          #9a4519;
+
+
+
+@define-color darker-01              rgba(0,0,0,0.1);
+
+@define-color darker-02              rgba(0,0,0,0.2);
+
+@define-color darker-03              rgba(0,0,0,0.3);
+
+
+
+@define-color lighter-01             rgba(250,250,250,0.1);
+
+@define-color lighter-015            rgba(250,250,250,0.15);
+
+@define-color lighter-03             rgba(250,250,250,0.3);
+
+@define-color lighter-04             rgba(250,250,250,0.4);
+
+
+@import url("common-light.css");
