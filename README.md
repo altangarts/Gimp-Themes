@@ -34,4 +34,8 @@ Middle Gray theme (LowBlue Gray - DarkRed) in System
 Light Theme (LowBlue White - DarkBlue) in System
 ![Ekran görüntüsü 2025-05-19 104946](https://github.com/user-attachments/assets/00de3935-867e-409b-973a-70316f6dbfe7)
 
+Setting
+![Ekran görüntüsü 2025-05-19 112125](https://github.com/user-attachments/assets/2078c294-8fd9-46a1-8ceb-4b40146ee9eb)
+
+
 
