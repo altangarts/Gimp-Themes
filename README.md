@@ -10,7 +10,7 @@ Manual
 
 -Extract files to 
 
-        ~\GIMP 3\share\gimp\3.0\themes\Default
+           ~\GIMP 3\share\gimp\3.0\themes
 License
 LGPLv2.1 LICENSE
 
